@@ -1,0 +1,41 @@
+
+📄 EJEMPLO DE DATOS PARA INGRESAR EN LA PLANILLA DE SUELDOS
+
+💰 Valor por hora:
+Ingrese el valor por hora (Enter para usar 11.660 Gs o 'fin' para salir): 12000
+
+👤 Datos del empleado:
+Ingrese el nombre del empleado (o 'fin' para terminar): Juan Pérez
+Ingrese cuántos días trabajó Juan Pérez (o 'fin' para salir): 3
+Ingrese la fecha inicial (dd/mm/aa) para Juan Pérez (o 'fin'): 01/07/25
+
+🕒 Datos diarios:
+Día 1 (01/07/25)
+  Ingrese la hora de ENTRADA (hh.mm.ss) o 'fin': 07.00.00
+  Ingrese la hora de SALIDA (hh.mm.ss) o 'fin': 15.30.00
+
+Día 2 (02/07/25)
+  Ingrese la hora de ENTRADA (hh.mm.ss) o 'fin': 08.00.00
+  Ingrese la hora de SALIDA (hh.mm.ss) o 'fin': 16.00.00
+
+Día 3 (03/07/25)
+  Ingrese la hora de ENTRADA (hh.mm.ss) o 'fin': 09.00.00
+  Ingrese la hora de SALIDA (hh.mm.ss) o 'fin': 17.00.00
+
+🎉 Información de feriado:
+¿Hubo feriado para Juan Pérez? (s/n o 'fin'): s
+Ingrese el número de día feriado (1 a 3) o 'fin': 2
+
+💸 Información de retiro/quincena:
+¿Tuvo retiro antes/después de quincena? (s/n o 'fin'): s
+¿Cuánto cobró de quincena? (o 'fin'): 150000
+
+🛒 Descuentos:
+¿Tuvo descuento por caja? (s/n o 'fin'): s
+Ingrese el monto de descuento por caja (0 si no o 'fin'): 5000
+
+¿Tuvo descuento por inventario? (s/n o 'fin'): n
+Ingrese el monto de descuento por inventario (0 si no o 'fin'): 0
+
+🏥 Descuento por IPS:
+¿Juan Pérez paga IPS? (s/n o 'fin'): s
